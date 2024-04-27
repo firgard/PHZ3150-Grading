@@ -33,3 +33,5 @@ or
 ```
 python3 grading.py -s
 ```
+
+*For documentation of the grading files, and the most updated methods, look at homework 8. The previous homework assignments should work completely, but bugs are possible due to many changes while creating new homework solutions.*
